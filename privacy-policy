@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Infinia Privacy Policy</title>
+  <style>
+    body { margin: 0; font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: #1d1d1f; background: #fff; }
+    main { max-width: 720px; margin: 0 auto; padding: 48px 24px 80px; }
+    h1 { font-size: 32px; letter-spacing: -0.03em; margin: 0 0 8px; }
+    h2 { font-size: 20px; margin: 32px 0 8px; }
+    p, li { color: #3a3a3c; }
+    ul { padding-left: 1.2em; }
+    .meta { color: #6e6e73; }
+    a { color: #0071e3; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Infinia Privacy Policy</h1>
+  <p class="meta">Effective Date: September 24, 2026</p>
+  <p>This Privacy Policy explains how Infinia (“Infinia,” “we,” “us,” or “our”) handles information in connection with the Infinia iOS application (the “App”).</p>
+  <p>Infinia does not require an Infinia account, does not provide AI features, does not display advertising, and does not track users across apps or websites. Infinia does not upload or store your drawings, photos, or project files on servers operated by us.</p>
+  <p>Your content is stored locally on your device.</p>
+
+  <h2>1. Information We Handle</h2>
+  <p>The App may handle the following categories of information:</p>
+  <p><strong>Project content and metadata.</strong> This may include drawings, images captured with the camera, images selected through the system Photos picker, project titles, folders, canvas settings, timestamps, ordering information, and internal project identifiers.</p>
+  <p><strong>App settings.</strong> The App stores preferences such as onboarding status, drawing defaults, appearance, and similar operational settings.</p>
+  <p><strong>Subscription information.</strong> The App receives limited product, transaction-verification, and entitlement information from Apple through StoreKit to determine whether Infinia+ features should be available.</p>
+  <p><strong>Support communications.</strong> If you contact us by email, we receive your email address and any message, attachment, technical information, or other content you choose to provide.</p>
+  <p>Infinia does not integrate third-party analytics, advertising, attribution, or crash-reporting SDKs. We do not collect custom analytics events or advertising identifiers.</p>
+  <p>Apple may independently provide us with aggregated App Store performance, sales, and subscription reports. If you have chosen to share diagnostics and usage information with app developers in your device settings, Apple may also provide crash or diagnostic information such as the App version, device type, operating system version, and technical details associated with a failure.</p>
+
+  <h2>2. Camera and Photo Library Access</h2>
+  <p>The App may request access to your camera so that you can take a photo and place it on the canvas.</p>
+  <p>Infinia uses Apple’s system Photos picker when you add an existing image. The App receives only the images you expressly select through that picker and does not request unrestricted access to browse your entire photo library.</p>
+  <p>Selected or captured images are processed on your device and stored as part of your local project. They are not sent to servers operated by Infinia. They may leave your device only when you intentionally share or export a project.</p>
+
+  <h2>3. Local Storage</h2>
+  <p>Infinia stores your projects, drawings, images placed on a canvas, folders, and related metadata in the App’s local storage on your device.</p>
+  <p>Infinia does not provide an iCloud backup, cloud sync, or other account-based storage. We do not receive your projects on our own servers.</p>
+  <p>Separately, if iCloud Backup is enabled for your device, Apple may include the App’s local data in a system-level device backup according to your iCloud settings. This process is controlled by Apple rather than Infinia.</p>
+
+  <h2>4. How We Use Information</h2>
+  <p>Infinia uses the information described in this Privacy Policy to:</p>
+  <ul>
+    <li>Create, organize, display, edit, and delete your projects.</li>
+    <li>Place a photo on the canvas when you ask for it.</li>
+    <li>Determine access to subscription features.</li>
+    <li>Respond to support requests.</li>
+    <li>Comply with applicable legal obligations and protect the App against fraud or misuse.</li>
+  </ul>
+  <p>We do not use your drawings or photos for advertising, behavioral profiling, AI training, or marketing.</p>
+
+  <h2>5. Third-Party Services</h2>
+  <p>Infinia relies primarily on services provided by Apple, including:</p>
+  <ul>
+    <li>iOS system frameworks for camera access, photo selection, and sharing.</li>
+    <li>StoreKit and the App Store for subscriptions and purchase restoration.</li>
+    <li>App Store Connect for aggregated performance, sales, subscription, and opt-in diagnostic reporting.</li>
+  </ul>
+  <p>Apple handles information under its own <a href="https://www.apple.com/legal/privacy/">Privacy Policy</a> and <a href="https://www.apple.com/legal/privacy/data/en/app-store/">App Store &amp; Privacy</a> documentation.</p>
+  <p>If you contact us, your message may also be processed by your selected email provider and by the email service used to receive support messages. Their handling of information is governed by their own terms and privacy policies.</p>
+  <p>Infinia does not currently use Firebase, Amplitude, Google Analytics, AppsFlyer, or comparable analytics and attribution services.</p>
+
+  <h2>6. Payments and Subscriptions</h2>
+  <p>Payments and subscription billing are processed by Apple.</p>
+  <p>Infinia does not receive your full payment card number, bank account details, Apple Account password, or complete Apple billing credentials.</p>
+  <p>The App may receive limited StoreKit information necessary to display subscription products, verify transactions, restore purchases, and determine whether Infinia+ features should be available. Apple may also provide us with sales, financial, and subscription reports through App Store Connect.</p>
+  <p>You can manage or cancel subscriptions in your Apple Account or App Store subscription settings.</p>
+
+  <h2>7. No Infinia Accounts, AI, Advertising, or Tracking</h2>
+  <p>Infinia does not require registration and does not create an Infinia user account.</p>
+  <p>The App does not provide AI features, use your projects to train AI systems, display third-party advertisements, access an advertising identifier, or track your activity across other companies’ apps or websites.</p>
+  <p>We do not sell or rent personal information and do not share your information with data brokers.</p>
+
+  <h2>8. Sharing and Export</h2>
+  <p>When you use an iOS sharing or export feature, the project you select is provided to the destination you choose, such as another app, a storage provider, a messaging service, or an email service.</p>
+  <p>Infinia does not control how the selected destination processes the content after you share it. The destination provider’s terms and privacy policy apply to that transfer.</p>
+
+  <h2>9. Data Retention</h2>
+  <p>Local projects and settings remain on your device until you delete them in the App, clear the App’s data, or uninstall the App. Copies may remain in device backups controlled by Apple.</p>
+  <p>Subscription and transaction records are retained by Apple according to Apple’s legal, financial, and operational requirements.</p>
+  <p>Support communications may be retained for as long as reasonably necessary to respond to your request, maintain support records, resolve disputes, prevent abuse, and comply with legal obligations.</p>
+  <p>Diagnostic and App Store reporting information is retained according to Apple’s settings and retention practices.</p>
+
+  <h2>10. International Processing</h2>
+  <p>The App is made available globally through the App Store.</p>
+  <p>Apple, App Store services, and email service providers may process information in countries other than your country or region. Such processing is governed by the applicable provider’s privacy practices and legal safeguards.</p>
+
+  <h2>11. Your Choices and Rights</h2>
+  <p>You can:</p>
+  <ul>
+    <li>Manage camera permission in iOS Settings.</li>
+    <li>Choose which images to provide through the system Photos picker.</li>
+    <li>Delete individual projects and folders from the App.</li>
+    <li>Manage system-level iCloud Backup through your Apple Account settings.</li>
+    <li>Manage or cancel subscriptions through the App Store.</li>
+    <li>Control whether diagnostics and usage information is shared with app developers through Settings → Privacy &amp; Security → Analytics &amp; Improvements.</li>
+    <li>Stop using the App by uninstalling it.</li>
+  </ul>
+  <p>Depending on your location, you may have rights to request access to, correction of, deletion of, or restriction of personal information we control. To submit a request concerning support communications or other information controlled by us, contact <a href="mailto:contact.infinia.support@gmail.com">contact.infinia.support@gmail.com</a>.</p>
+
+  <h2>12. Children</h2>
+  <p>Infinia is not specifically directed to children, and we do not knowingly solicit personal information from children.</p>
+  <p>If you believe a child has provided personal information to us through a support communication, contact us so that we can review and, where appropriate, delete it.</p>
+
+  <h2>13. Security</h2>
+  <p>Infinia relies on iOS application storage protections. Your projects stay on your device.</p>
+  <p>However, no storage, transmission, or processing system can be guaranteed to be completely secure.</p>
+
+  <h2>14. Changes to This Privacy Policy</h2>
+  <p>We may update this Privacy Policy when the App’s functionality, data practices, service providers, or legal obligations change.</p>
+  <p>The updated version becomes effective on the effective date stated at the top of the published policy.</p>
+
+  <h2>15. Contact</h2>
+  <p>If you have questions about this Privacy Policy or privacy matters relating to Infinia, contact <a href="mailto:contact.infinia.support@gmail.com">contact.infinia.support@gmail.com</a>.</p>
+</main>
+</body>
+</html>
